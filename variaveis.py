@@ -13,13 +13,15 @@
 # print(type(estado))
 # print(type(1 + 2j))
 # ctrl + k + c comenta
+# ctrl + k + u descomenta
 
 # Função isinstance()
 # Compara o tipo de uma variável com um tipo escolhido por voce
 # Comparou a variável 'a' com o tipo 'int'
 # a = 10
 # b = "Sol"
-# print(isinstance(a, int))
+# print(isinstance(a, int)) -> retorna true
+# print(isinstance(a, str)) -> retorna false
 
 a = 40
 c = 3

@@ -6,4 +6,3 @@ y = int(input("Digite outro número: "))
 z = x + y
 
 print("A soma dos dois valores é", z)
-    
