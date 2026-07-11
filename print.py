@@ -30,5 +30,10 @@
 # res = f"A soma de {a} com {b} é igual a {a + b}"
 # print(res)
 
-valor = 125.579637
-print(f"O valor é {valor:.3f}")
+# valor = 125.579637
+# print(f"O valor é {valor:.3f}")
+# print(f"O valor é '{valor:.3f}'")
+
+nome = "João"
+idade = 30
+print(f"Nome: {nome}\tIdade: {idade}")
